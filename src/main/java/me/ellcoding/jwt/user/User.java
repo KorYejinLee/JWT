@@ -67,4 +67,5 @@ public class User implements UserDetails {
     public String getUsername() {
         return ""; // Todo email로 받을지 name으로 받을지 정하기
     }
+
 }
